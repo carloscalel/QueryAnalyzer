@@ -4,7 +4,7 @@ using System.Data;
 
 public static class Db
 {
-    public static string Conn = "Server=CALEL;Database=adminDB;Trusted_Connection=True;Encrypt=True;TrustServerCertificate=True;";
+    public static string Conn = "Server=localhost;Database=TuBD;Trusted_Connection=True;Encrypt=True;TrustServerCertificate=True;";
 
     public static List<(int Id, string QueryText)> Obtener(int top)
     {
