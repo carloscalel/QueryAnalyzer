@@ -261,10 +261,4 @@ GROUP BY Tabla, TablaJoin
 
 # 👨‍💻 Autor
 
-Proyecto enfocado en análisis de queries SQL a nivel enterprise.
-
----
-
-# 📄 Licencia
-
-MIT
+Proyecto enfocado en análisis de queries SQL.
